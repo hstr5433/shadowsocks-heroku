@@ -18,7 +18,7 @@
 
   Encryptor = require("./encrypt").Encryptor;
 
-  options = {
+  hstr5433 = {
     alias: {
       'b': 'local_address',
       'r': 'remote_port',
